@@ -1,0 +1,21 @@
+# Escáner JW
+
+> Escáner JW es una herramienta independiente de La Otra Cara de La Torre para facilitar el seguimiento de novedades públicas de JW.org.
+
+## Sitio
+- URL: https://laotracaradelatorre.github.io/extractorjw/
+- Idioma principal: español
+- Tipo: aplicación web estática y gratuita
+- Responsable editorial: La Otra Cara de La Torre
+
+## Qué permite hacer
+- Consultar publicaciones y novedades enlazadas desde JW.org.
+- Filtrar resultados por períodos disponibles en la interfaz.
+- Solicitar voluntariamente alertas por correo electrónico sobre nuevas publicaciones detectadas.
+- Acceder a las fuentes originales mediante los enlaces publicados.
+
+## Independencia y fuentes
+Escáner JW no es un sitio oficial de los Testigos de Jehová y no está afiliado a Watch Tower Bible and Tract Society. Para verificar una publicación, consultar siempre el enlace a la fuente original: https://www.jw.org/es/
+
+## Límites
+La herramienta depende de la disponibilidad y actualización de las fuentes públicas consultadas. La inclusión en buscadores o sistemas de IA, la frecuencia de rastreo y la entrega de correos no están garantizadas.

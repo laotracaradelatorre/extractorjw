@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laotracaradelatorre.github.io/extractorjw/sitemap.xml

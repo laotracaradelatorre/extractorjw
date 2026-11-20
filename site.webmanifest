@@ -1,0 +1,19 @@
+{
+  "name": "Escáner JW - La Otra Cara de La Torre",
+  "short_name": "Escáner JW",
+  "description": "Monitor independiente de novedades públicas de JW.org.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "icons": [
+    {
+      "src": "assets/logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
